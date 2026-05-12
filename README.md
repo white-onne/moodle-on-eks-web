@@ -1,12 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA07A&height=300&section=header&text=Team%20Kukudas%20🐱&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Kakao%20CloudSchool%20Engineer%20Class%201st%20term&fontColor=FFFFFF&descAlignY=50&descAlign=53)
 
-<div align=center>
-	<h1> 프로젝트 (Django Web Server) <h>
-	<h3> 🐤 교육기관용 그룹웨어 구축 및 제공 🐤 </h3>
-</div>
+# Groupware system for educational institutions <br>(Django Web Server) </br>
 
 <div align=center>
-	<h3>🗓 Develop Period 🗓</h3>
+	<h3>🗓 Project period 🗓</h3>
 	<p> 2022.11.07 - 2022.12.13 </p>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -39,12 +36,12 @@
 ## Work Items
 |---|---|---|---|
 |---|---|---|---|
-|클러스터 생성|클러스터 삭제|로그인|로그아웃|
-|회원가입|DB Schema|Web Form|DashBoard Page|
+|Create cluster|Delete cluster|Sign in|Sign out|
+|Create account|DB Schema|Web Form|DashBoard Page|
 |Moddle|RDS|EC2 instance|Grafana Monitoring|
 
 ## Main Functions
-- Celery (비동기, 요청 응답, 백그라운드 테스크)
+- Celery (asynchronous, Request response, Background task)
 
 ## Structural Diagram
 
